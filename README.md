@@ -1,7 +1,4 @@
-# 🐉 Rumi Allbert
-
----
-
+ #🐉 Rumi Allbert
 **`Data Enthusiast`**
 
 ![badge](https://img.shields.io/badge/Powered%20by-truth--compassion--tolerance-blue)
@@ -39,3 +36,5 @@ Feel free to reach out! Looking to collaborae on data science projects 👨🏽�
 <br />
 
 #
+
+![Rumi Allbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumiallbert&show_icons=true&theme=github_dark)
