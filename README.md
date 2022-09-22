@@ -37,4 +37,4 @@ Feel free to reach out! Looking to collaborae on data science projects 👨🏽�
 
 #
 
-![Rumi Allbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumiallbert&count_private=true&show_icons=true&theme=github_dark)
+![Rumi Allbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumiallbert&count_private=true&show_icons=true&theme=tokyonight)
