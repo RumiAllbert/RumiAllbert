@@ -1,6 +1,6 @@
 # 🐉 Rumi Allbert
 
-`**Data Enthusiast**`
+**`Data Enthusiast`**
 
 ![badge](https://img.shields.io/badge/Powered%20by-truth--compassion--tolerance-blue)
 
