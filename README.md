@@ -1,12 +1,14 @@
 # 🐉 Rumi Allbert
 
+---
+
 **`Data Enthusiast`**
 
 ![badge](https://img.shields.io/badge/Powered%20by-truth--compassion--tolerance-blue)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
----
+#
 
 ### Hi there 👋
 
