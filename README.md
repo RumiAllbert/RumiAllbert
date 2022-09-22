@@ -36,5 +36,6 @@ Feel free to reach out! Looking to collaborae on data science projects 👨🏽�
 <br />
 
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumiallbert)]
 
 ![Rumi Allbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumiallbert&count_private=true&show_icons=true&theme=tokyonight)
