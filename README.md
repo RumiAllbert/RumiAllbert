@@ -36,5 +36,5 @@ Feel free to reach out! Looking to collaborae on data science projects 👨🏽�
 <br />
 
 #
-![Rumi Allbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumiallbert&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumiallbert&hide=html&theme=tokyonight&layout=compact)
+![Rumi Allbert's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rumiallbert&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rumiallbert&hide=html&theme=tokyonight&layout=compact)
