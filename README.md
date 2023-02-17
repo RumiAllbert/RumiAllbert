@@ -15,7 +15,7 @@ I enjoy solving complex problems. As a data enthusiast, I unravel problems utili
 
 Feel free to reach out! Looking to collaborae on data science projects 👨🏽‍💻
 
-- [RAAEC](https://rumiallbert.tk)
+- [RAAEC](https://rumiallbert.com)
 
 ---
 
